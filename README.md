@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wali</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A frontend developer and data analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-wali&label=Profile%20views&color=0e75b6&style=flat" alt="md-wali" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MySQL, PowerBI, Tailwind CSS**
 
-- 👯 I’m looking to collaborate on **Frontend Projects**
+- 👯 I’m looking to collaborate on **Frontend Projects, Machine Learning Projects**
 
 - 🤝 I’m looking for help with **Web Development and Data Science**
 
